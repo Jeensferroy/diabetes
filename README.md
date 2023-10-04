@@ -10,4 +10,3 @@ Developing an AI system to predict diabetes risk using machine learning algorith
 5. **Evaluation:** Assess model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
 6. **Iterative Improvement:** Fine-tune model parameters and explore feature engineering techniques for enhanced accuracy.
 
----
